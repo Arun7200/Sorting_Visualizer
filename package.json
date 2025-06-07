@@ -10,7 +10,7 @@
   "description": "",
   "dependencies": {
     "axios": "^1.9.0",
-    "babel-core": "^6.26.3",
+    "babel-core": "^4.7.16",
     "babel-loader": "^10.0.0",
     "css-loader": "^7.1.2",
     "express": "^5.1.0",
